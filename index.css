@@ -8,8 +8,10 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;}
 
-  .jumbotron{
-              background-color: teal;
+ .jumbotron { 
+              background-color: silver;
+                       
+}
              
 }
 
