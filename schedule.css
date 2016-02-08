@@ -5,11 +5,11 @@ body {
 }
 #wrapper {
   width: 960px;
-  margin: 20px auto 20px auto;
+  margin: 20px auto 20px auto; }
 
  .jumbotron { 
               background-color: purple;
-              background-image:url(ephs.jpg);         
+              background-image:url(IMG_10.jpg);         
 }
 
 h1{text-align: center;}
